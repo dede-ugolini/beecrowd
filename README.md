@@ -1,2 +1,2 @@
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Dede Status](https://github-readme-stats.vercel.app/api?username=dede-ugolini&show_icons=true)
 
